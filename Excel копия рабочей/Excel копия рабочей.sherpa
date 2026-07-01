@@ -1,0 +1,96 @@
+﻿{
+  "Version": "1.00",
+  "IsDarkTheme": true,
+  "ProductVersion": "1.4.2.38000",
+  "References": {
+    "Items": [
+      "Microsoft.CSharp",
+      "System",
+      "System.Core",
+      "System.Data",
+      "System.Data.DataSetExtensions",
+      "System.Deployment",
+      "System.IO",
+      "System.Linq",
+      "System.Net.Http",
+      "System.Text.Encoding",
+      "System.Web",
+      "System.Windows.Forms",
+      "System.Xml"
+    ]
+  },
+  "Properties": {
+    "RobotName": "",
+    "RobotVersion": "22",
+    "Description": "",
+    "AllowedRunWithoutConfirm": false,
+    "DisableVisibleInParams": false,
+    "DisableVisibleOutParams": false,
+    "TotalBlockExecutionDelay": 0,
+    "InParams": [],
+    "OutParams": [],
+    "Settings": [],
+    "PythonModules": "",
+    "ModelAutopilot": "",
+    "ModelAIServer": ""
+  },
+  "Folders": [
+    {
+      "RelativePath": "",
+      "Folders": [],
+      "Files": [
+        {
+          "RelativePath": "11 колонок.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "13 колонок.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "22 колонки.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "23 колонки.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "27 колонок.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Главная.process",
+          "Main": true,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Заполнение 1С.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Проверка Архива результатов.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        }
+      ],
+      "Links": []
+    }
+  ],
+  "Files": [],
+  "Links": []
+}
